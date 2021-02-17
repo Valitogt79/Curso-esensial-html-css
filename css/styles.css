@@ -31,7 +31,8 @@
 
 body {
   color: var(--gray30);
-  font-family: Charter;
+  /* font-family: Charter; */
+  font-family: 'Roboto', sans-serif;
 }
 a {
   color: var(--gray30);
